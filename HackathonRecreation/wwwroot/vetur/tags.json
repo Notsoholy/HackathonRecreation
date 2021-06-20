@@ -1,0 +1,14 @@
+{
+  "FilterPanelComponent": {
+    "description": "Auto imported from components/FilterPanelComponent.vue"
+  },
+  "FindSanatorium": {
+    "description": "Auto imported from components/FindSanatorium.vue"
+  },
+  "RegisterForm": {
+    "description": "Auto imported from components/RegisterForm.vue"
+  },
+  "SignInForm": {
+    "description": "Auto imported from components/SignInForm.vue"
+  }
+}

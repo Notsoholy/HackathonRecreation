@@ -1,0 +1,25 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/filter-panel-component.js": "components/filter-panel-component.js",
+    "components/find-sanatorium.js": "components/find-sanatorium.js",
+    "components/register-form.js": "components/register-form.js",
+    "components/sign-in-form.js": "components/sign-in-form.js",
+    "pages/account.js": "pages/account.js",
+    "pages/index.js": "pages/index.js",
+    "pages/sanatorium/_id.js": "pages/sanatorium/_id.js",
+    "pages/sanatorium/index.js": "pages/sanatorium/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/filter-panel-component.js": "components/filter-panel-component.js.map",
+    "components/find-sanatorium.js": "components/find-sanatorium.js.map",
+    "components/register-form.js": "components/register-form.js.map",
+    "components/sign-in-form.js": "components/sign-in-form.js.map",
+    "pages/account.js": "pages/account.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/sanatorium/_id.js": "pages/sanatorium/_id.js.map",
+    "pages/sanatorium/index.js": "pages/sanatorium/index.js.map",
+    "server.js": "server.js.map"
+  }
+}

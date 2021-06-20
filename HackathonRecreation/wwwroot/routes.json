@@ -1,0 +1,30 @@
+[
+  {
+    "name": "account",
+    "path": "/account",
+    "component": "C:\\\\Users\\\\notso\\\\Documents\\\\RecreationFront\\\\my-nuxt\\\\pages\\\\account.vue",
+    "chunkName": "pages/account",
+    "_name": "_570187d2"
+  },
+  {
+    "name": "sanatorium",
+    "path": "/sanatorium",
+    "component": "C:\\\\Users\\\\notso\\\\Documents\\\\RecreationFront\\\\my-nuxt\\\\pages\\\\sanatorium\\\\index.vue",
+    "chunkName": "pages/sanatorium/index",
+    "_name": "_4edac78c"
+  },
+  {
+    "name": "sanatorium-id",
+    "path": "/sanatorium/:id",
+    "component": "C:\\\\Users\\\\notso\\\\Documents\\\\RecreationFront\\\\my-nuxt\\\\pages\\\\sanatorium\\\\_id.vue",
+    "chunkName": "pages/sanatorium/_id",
+    "_name": "_3d4d3cf4"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\notso\\\\Documents\\\\RecreationFront\\\\my-nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_56336992"
+  }
+]
